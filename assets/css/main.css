@@ -2173,3 +2173,8 @@
 		position: absolute;
 		right: 4%;
 	}
+
+	.logo{
+		height: 25px;
+		width: 25px;
+	}
